@@ -3,3 +3,4 @@ uuid = "69f6048e-dadd-4262-8118-fbfe9edfb646"
 repo = "https://github.com/amruthbalbail/registry-17"
 
 [packages]
+c3e4b0f8-55cb-11ea-2926-15256bba5781 = { name = "Pluto", path = "P/Pluto" }
